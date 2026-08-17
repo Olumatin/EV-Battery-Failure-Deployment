@@ -1,4 +1,5 @@
 Flask
 numpy
 joblib
+scikit-learn
 tensorflow
